@@ -1,0 +1,42 @@
+<!DOCTYPECSS>
+
+
+body {
+    -webkit-animation:name 2s infinite;
+}
+
+@-webkit-keyframes name {
+    0% {background-color:black;}
+    100% {background-color:white;}
+}
+
+
+
+h1 {
+  font: serial;
+  color: #ff0000;
+  font-size: 350px;
+  text-align: center;
+}
+
+h2 {
+  font: serial;
+  color: #ff0000;
+  font-size: 250px;
+   text-align: center;
+}
+
+h3 {
+  font: serial;
+  color: #ff0000;
+  font-size: 150px;
+   text-align: center;
+}
+.center {
+  text-align: center;
+  border: 3px solid green;
+}
+
+
+
+
